@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Java-red)
 ![](https://img.shields.io/badge/-C-green)
 ![](https://img.shields.io/badge/-C++-%234DB6AC)
-![](https://img.shields.io/badge/-C%23-%234DB6AC)
+![](https://img.shields.io/badge/-C%23-%23808B96%20)
 ![](https://img.shields.io/badge/-MATLAB-blue)
 <!--
 ![](https://img.shields.io/badge/-Simulink-%234DB6AC)
