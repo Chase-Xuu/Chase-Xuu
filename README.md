@@ -27,10 +27,15 @@ Here are some ideas to get you started:
 
 ### Things I code with:
 ![](https://img.shields.io/badge/-Python-orange)
+<!--
 ![](https://img.shields.io/badge/-Swift-%23EC7063)
-![](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-green)
+-->
 ![](https://img.shields.io/badge/-Java-red)
+![](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-green)
+![](https://img.shields.io/badge/-C++-%234DB6AC)
+![](https://img.shields.io/badge/-C#-%234DB6AC)
 ![](https://img.shields.io/badge/-MATLAB-blue)
+<!--
 ![](https://img.shields.io/badge/-Simulink-%234DB6AC)
 ![](https://img.shields.io/badge/-PLC-lightgrey)
 ![](https://img.shields.io/badge/-Unity%20C%23-%2334495E%20)
@@ -39,8 +44,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Flutter-blue)
 ![](https://img.shields.io/badge/-Verilog-red)
 [Languages you use, e.g., Python, C++, Java, MATLAB, etc.]
+-->
 
 ### Tools and Frameworks I use:
+![](https://img.shields.io/badge/-Pytroch%20HLS-red)
+![](https://img.shields.io/badge/-Tensorflow-%23B7950B%20)
+![](https://img.shields.io/badge/-AnyLogic-%231976D2%20)
+![](https://img.shields.io/badge/-Unity3D-%235499C7)
+![](https://img.shields.io/badge/-Neo4j%20Boot-green)
+![](https://img.shields.io/badge/-Git-%23D35400%20)
+![](https://img.shields.io/badge/-Latex-%231976D2%20)
+<!--
 ![](https://img.shields.io/badge/-Vitis%20HLS-red)
 ![](https://img.shields.io/badge/-Vivado-%23B7950B%20)
 ![](https://img.shields.io/badge/-Quartus-%231976D2%20)
@@ -56,7 +70,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Rhino-%23808B96%20)
 ![](https://img.shields.io/badge/-3ds%20Max-%2345B39D)
 ![](https://img.shields.io/badge/-Fusion%20360-orange)
+-->
 
+<!--
 ### Projects I’ve worked on:
 ![](https://img.shields.io/badge/-Xilinx%20Zynq%20--%20Zedboard-%23990000%20)
 ![](https://img.shields.io/badge/-Intel%20MCS--51-%231E88E5%20)
@@ -70,6 +86,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Nordic%20nRF52%2F53%20Series-blue)
 ### MCU/Embedded Systems I’m familiar with:
 [List specific hardware you’ve worked with, e.g., Raspberry Pi, Nvidia Jetson, STM32, etc.]
-
+-->
 ---
 ✨ Feel free to connect with me or explore my work!
