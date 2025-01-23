@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 ### Things I code with:
 ![](https://img.shields.io/badge/-Python-orange)
-<!--
-![](https://img.shields.io/badge/-Swift-%23EC7063)
--->
 ![](https://img.shields.io/badge/-Java-red)
 ![](https://img.shields.io/badge/-C-green)
 ![](https://img.shields.io/badge/-C++-%234DB6AC)
@@ -44,6 +41,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Flutter-blue)
 ![](https://img.shields.io/badge/-Verilog-red)
 [Languages you use, e.g., Python, C++, Java, MATLAB, etc.]
+-->
+<!--
+![](https://img.shields.io/badge/-Swift-%23EC7063)
 -->
 
 ### Tools and Frameworks I use:
