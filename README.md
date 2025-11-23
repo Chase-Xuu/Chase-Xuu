@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📖 I'm currently pursuing a Master's degree in Electrical and Computer Engineering from Rice University, specializing in Computer Vision. 🦉
 
-🔗 How to reach me: [Chase-Xu](www.linkedin.com/in/chi-xu-chase)
+🔗 How to reach me: [Chase-Xu](https://www.linkedin.com/in/chi-xu-chase)
 
 ---
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tools and Frameworks I use:
-![](https://img.shields.io/badge/-Pytroch%20HLS-red)
+![](https://img.shields.io/badge/-PyTorch-red)
 ![](https://img.shields.io/badge/-Tensorflow-%23B7950B%20)
 ![](https://img.shields.io/badge/-AnyLogic-%231976D2%20)
 ![](https://img.shields.io/badge/-Unity3D-%235499C7)
